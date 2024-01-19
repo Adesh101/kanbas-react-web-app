@@ -1,0 +1,61 @@
+<select id="select-one-grader">
+    <option selected value="SpeedGrader">
+        SpeedGrader</option>
+</select>
+
+<h3>Assigment Name</h3>
+
+<input type="text" placeholder="A1 - ENV + HTML"></input> <br /> <br />
+<textarea cols="10" rows="3" placeholder="This is the assignment description"></textarea> <br /> <br />
+
+<label for="text-fields-points"> Points: </label><br /> 
+<input type="number" placeholder="100" id="text-fields-points" /><br /> <br />
+
+<label for="text-fields-ag"> Assignment Group </label><br /> 
+<select id="select-one-assignemnt">
+    <option selected value="ASSIGNMENTS">
+        ASSIGNMENTS</option>
+</select> <br /> <br />
+
+<label for="text-fields-dga"> Display Grade as </label> <br /> 
+<select id="select-one-metric">
+    <option selected value="Percentage">
+        Percentage</option>
+</select> <br /> <br />
+
+<label for="text-fields-st"> Submission Type </label> <br /> 
+<select id="select-one-type">
+    <option selected value="Online">
+        Online</option>
+</select> <br /> <br />
+
+<label>Online Entry Options</label> <br /> 
+<input type="checkbox" value="Text Entry" name="check-oep" id="chkbox-te" checked />
+<label for="chkbox-te">Text Entry</label> <br />
+
+<input type="checkbox" value="Website URL" name="check-oep" id="chkbox-wu" />
+<label for="chkbox-wu">Website URL</label> <br />
+
+<input type="checkbox" value="Media Recordings" name="check-oep" id="chkbox-mr" checked />
+<label for="chkbox-mr">Media Recordings</label> <br />
+
+<input type="checkbox" value="Student Annotation" name="check-oep" id="chkbox-sa" />
+<label for="chkbox-sa">Student Annotation</label> <br />
+
+<input type="checkbox" value="File Uploads" name="check-oep" id="chkbox-fu" />
+<label for="chkbox-fu">File Uploads</label> <br /> <br />
+
+<label for="text-fields-assign"> Assign to </label>
+<input type="text" placeholder="Everyone" id="text-fields-assign" /><br /> <br /> 
+
+<label for="text-fields-due"> Due </label> <br />
+<input type="date" placeholder="01/01/2021"> <br /> <br />
+
+<label for="text-fields-available"> Available from </label> <br />
+<input type="date" placeholder="01/01/2021"> <br /> <br />
+
+<label for="text-fields-until"> Until </label> <br />
+<input type="date" placeholder="01/01/2021"> <br /> <br />
+
+<button type="button" onclick="location.href = '/Kanbas/Courses/Assignments/screen.html'">Cancel</a></button>
+<button type="button" onclick="location.href = '/Kanbas/Courses/Assignments/screen.html'">Save</button>
