@@ -1,0 +1,231 @@
+
+<button type="button">Course Details</button>
+<button type="button">Sections</button>
+<button type="button" onclick="location.href = '/Kanbas/Courses/Settings/Navigation/screen.html'">Navigation</button>
+<button type="button">Apps</button>
+<button type="button">Feature Options</button>
+<button type="button">Integrations</button>
+<h3>Course Details</h3>
+
+<table>
+    <tr>
+        <td>
+            <b>Image:</b>
+        </td>
+        <td>
+            <button type="button">Choose Image</button>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label for="text-fields-name"><b> Name: </b></label>
+        </td>
+        <td>CS 4550 12631 Web Development SEC 01 Spring 2024 [BOS-1-TR]</td>
+    </tr>
+    <tr>
+        <td>
+            <label for="text-fields-code"><b> Course Code: </b></label>
+        </td>
+        <td>CS4550.12631.202410</td>
+    </tr>
+    <tr>
+        <td>
+            <label for="text-fields-bc"><b> Blueprint Course: </b></label>
+        </td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>
+            <label for="text-fields-ct"><b> Course Template: </b></label>
+        </td>
+        <td>
+            <input type="checkbox" value="Enable Course as a Course Template" name="check-ct" id="chkbox-ect" /> <label for="chkbox-ect">Enable Course as a Course Template</label> <br />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Time Zone:
+        </td>
+        <td>
+            <select id="select-one-timezone">
+                <option selected value="timezone">
+                    Eastern Time (US & Canada) (-05:00/ -04:)</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>SIS ID:</b>
+        </td>
+        <td>
+            CS4550.12631.202410
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Subaccount</b>
+        </td>
+        <td>
+            <a href="#">CS Undergrad</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Term:</b>
+        </td>
+        <td>
+            202410_1 Spring 2024 Semester Full Term
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Participation:</b>
+        </td>
+        <td>
+            <select id="select-one-term">
+                <option selected value="term">
+                    Term</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Start</b>
+        </td>
+        <td>
+            <input type="date">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>End</b>
+        </td>
+        <td>
+            <input type="date">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+        </td>
+        <td>
+            <input type="checkbox" name="check-rs" id="chkbox-rst" /> <label for="chkbox-ect">Restrict students from viewing course before term start date</label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+        </td>
+        <td>
+            <input type="checkbox" name="check-rs" id="chkbox-rst" /> <label for="chkbox-ect">Restrict students from viewing course after term end date</label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Default due time:</b>
+        </td>
+        <td>
+            <select id="select-one-dt">
+                <option selected value="AccountDefault">
+                    Account default(11:59pm)</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Language:</b>
+        </td>
+        <td>
+            <select id="select-one-language">
+                <option selected value="defaultLanguage">
+                    Not set (user-configurabke, defaults to English)</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>File Storage</b>
+        </td>
+        <td>
+            100000 megabytes
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label for="text-fields-lc"><b> Large Course: </b></label>
+        </td>
+        <td>
+            <input type="checkbox" value="launchSpeedgrader" name="check-ls" id="chkbox-lsg" /> <label for="chkbox-lsg">Launch SpeedGrader Filtered by Student Group</label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Grading Scheme</b>
+        </td>
+        <td>
+            <input type="checkbox" value="courseGrading" name="check-ec" id="chkbox-cgs" /> <label for="chkbox-cgs">Enable course grading scheme</label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>License:</b>
+        </td>
+        <td>
+            <select id="select-one-license">
+                <option selected value="defaultLicense">
+                    Private (Copyrighted)</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>File Copyright:</b>
+        </td>
+        <td>
+            <input type="checkbox" value="fileCopyright" name="check-fc" id="chkbox-fcy" /> <label for="chkbox-fcy">Copyright and license information must be provided for files before they are published</label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Visibility:</b>
+        </td>
+        <td>
+            <select id="select-one-visibility">
+                <option selected value="course">
+                    Course</option> <br />
+                    <input type="checkbox" value="course" name="check-course" id="chkbox-cou" /> <label for="chkbox-cou">Include this course in the public course index</label>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Format:</b>
+        </td>
+        <td>
+            <select id="select-one-format">
+                <option selected value="defaultFormat">
+                    On-Campus</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Mastery Paths:</b>
+        </td>
+        <td>
+            <input type="checkbox" value="elp" name="check-elp" id="chkbox-elpi" /> <label for="chkbox-elpi">Enable individual learning paths for students based on assessment</label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Description:</b>
+        </td>
+        <td>
+            <textarea cols="30" rows="10"></textarea>
+        </td>
+    </tr>
+</table>
+
+<button type="button">Update Course Details</button>
+
+
