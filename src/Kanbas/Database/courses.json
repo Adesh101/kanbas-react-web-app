@@ -1,0 +1,16 @@
+[
+  { "_id": "CS5610",
+    "name": "Web Development", "number": "CS5610", "startDate": "2024-01-09",
+    "endDate": "2024-04-27"
+  },
+  { "_id": "CS6220",
+    "name": "Data Mining Techniques", "number": "CS6220", "startDate": "2024-01-09", "endDate": "2024-04-27"
+  },
+  { "_id": "CS6620",
+    "name": "Fundamentals of Cloud Computing", "number": "CS6620", "startDate": "2024-01-09", "endDate": "2024-04-27"
+  },
+  { "_id": "CS5800",
+  "name": "Algorithms", "number": "CS5800", "startDate": "2024-01-09", "endDate": "2024-04-27"
+}
+]
+  

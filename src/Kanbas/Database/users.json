@@ -1,0 +1,92 @@
+[
+    {
+      "_id": "121",
+      "username": "luke_skywalker",
+      "password": "luke@420",
+      "firstName": "Luke",
+      "lastName": "Skywalker",
+      "email": "lukeskywalker@starwars.com",
+      "dob": "1960-03-14",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "122",
+      "username": "han_solo",
+      "password": "han@solo",
+      "firstName": "Han",
+      "lastName": "Solo",
+      "email": "hansolo@starwars.com",
+      "dob": "1940-03-08",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "123",
+      "username": "darth_vader",
+      "password": "darth@death",
+      "firstName": "Darth",
+      "lastName": "Vader",
+      "email": "darthvader@deathstar.com",
+      "dob": "1900-04-15",
+      "role": "FACULTY"
+    },
+    {
+      "_id": "124",
+      "username": "obiwan_kenobi",
+      "password": "obiwan",
+      "firstName": "Obi-Wan",
+      "lastName": "Kenobi",
+      "email": "obiwan@starwars.com",
+      "dob": "1970-08-29",
+      "role": "FACULTY"
+    },
+    {
+      "_id": "125",
+      "username": "princess_leia",
+      "password": "princess@leia",
+      "firstName": "Princess",
+      "lastName": "Leia",
+      "email": "princessleia@starwars.com",
+      "dob": "1982-02-20",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "126",
+      "username": "yoda",
+      "password": "yoda@420",
+      "firstName": "Yoda",
+      "lastName": "",
+      "email": "yoda@starwars.com",
+      "dob": "1900-09-19",
+      "role": "FACULTY"
+    },
+    {
+      "_id": "127",
+      "username": "kylo_ren",
+      "password": "kylo@420",
+      "firstName": "Kylo",
+      "lastName": "Ren",
+      "email": "kyloren@starwars.com",
+      "dob": "2000-05-05",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "128",
+      "username": "sheev_palpatine",
+      "password": "sheev@420",
+      "firstName": "Sheev",
+      "lastName": "Palpatine",
+      "email": "sheevpalpatine@deathstar.com",
+      "dob": "1700-06-12",
+      "role": "STUDENT"
+    },
+    {
+      "_id": "129",
+      "username": "chewbacca",
+      "password": "chewchew",
+      "firstName": "Chewbacca",
+      "lastName": "",
+      "email": "chewbacca@starwars.com",
+      "dob": "1879-08-29",
+      "role": "FACULTY"
+    }
+  ]

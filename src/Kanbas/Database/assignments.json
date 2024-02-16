@@ -1,0 +1,14 @@
+[
+{ "_id": "A101", "title": "Formatting User Interfaces with HTML", "course": "CS5610" },
+{ "_id": "A102", "title": "Styling User Interfaces with CSS", "course": "CS5610" },
+{ "_id": "A103", "title": "Implementing Responsive User Interfaces", "course": "CS5610" },
+{ "_id": "A201", "title": "Introduction to Data Mining", "course": "CS6220" },
+{ "_id": "A202", "title": "Data Exploration", "course": "CS6220" },
+{ "_id": "A203", "title": "Data Quality and Standardization", "course": "CS6220" },
+{ "_id": "A301", "title": "Introduction to Cloud Computing", "course": "CS6620" },
+{ "_id": "A302", "title": "Introducing Cloud Architecting", "course": "CS6620" },
+{ "_id": "A303", "title": "Storing Content in the Cloud", "course": "CS6620" },
+{ "_id": "A401", "title": "Review of Asymptotic Notation", "course": "CS5800" },
+{ "_id": "A402", "title": "Complexity (and Computability and Cryptography)", "course": "CS5800" },
+{ "_id": "A403", "title": "Divide-and-Conquer", "course": "CS5800" }
+]
