@@ -1,92 +1,92 @@
 [
-    {
-      "_id": "121",
-      "username": "luke_skywalker",
-      "password": "luke@420",
-      "firstName": "Luke",
-      "lastName": "Skywalker",
-      "email": "lukeskywalker@starwars.com",
-      "dob": "1960-03-14",
-      "role": "STUDENT"
-    },
-    {
-      "_id": "122",
-      "username": "han_solo",
-      "password": "han@solo",
-      "firstName": "Han",
-      "lastName": "Solo",
-      "email": "hansolo@starwars.com",
-      "dob": "1940-03-08",
-      "role": "STUDENT"
-    },
-    {
-      "_id": "123",
-      "username": "darth_vader",
-      "password": "darth@death",
-      "firstName": "Darth",
-      "lastName": "Vader",
-      "email": "darthvader@deathstar.com",
-      "dob": "1900-04-15",
-      "role": "FACULTY"
-    },
-    {
-      "_id": "124",
-      "username": "obiwan_kenobi",
-      "password": "obiwan",
-      "firstName": "Obi-Wan",
-      "lastName": "Kenobi",
-      "email": "obiwan@starwars.com",
-      "dob": "1970-08-29",
-      "role": "FACULTY"
-    },
-    {
-      "_id": "125",
-      "username": "princess_leia",
-      "password": "princess@leia",
-      "firstName": "Princess",
-      "lastName": "Leia",
-      "email": "princessleia@starwars.com",
-      "dob": "1982-02-20",
-      "role": "STUDENT"
-    },
-    {
-      "_id": "126",
-      "username": "yoda",
-      "password": "yoda@420",
-      "firstName": "Yoda",
-      "lastName": "",
-      "email": "yoda@starwars.com",
-      "dob": "1900-09-19",
-      "role": "FACULTY"
-    },
-    {
-      "_id": "127",
-      "username": "kylo_ren",
-      "password": "kylo@420",
-      "firstName": "Kylo",
-      "lastName": "Ren",
-      "email": "kyloren@starwars.com",
-      "dob": "2000-05-05",
-      "role": "STUDENT"
-    },
-    {
-      "_id": "128",
-      "username": "sheev_palpatine",
-      "password": "sheev@420",
-      "firstName": "Sheev",
-      "lastName": "Palpatine",
-      "email": "sheevpalpatine@deathstar.com",
-      "dob": "1700-06-12",
-      "role": "STUDENT"
-    },
-    {
-      "_id": "129",
-      "username": "chewbacca",
-      "password": "chewchew",
-      "firstName": "Chewbacca",
-      "lastName": "",
-      "email": "chewbacca@starwars.com",
-      "dob": "1879-08-29",
-      "role": "FACULTY"
-    }
-  ]
+  {
+    "_id": "121",
+    "username": "raheem_sterling",
+    "password": "raheemraheem",
+    "firstName": "Raheem",
+    "lastName": "Sterling",
+    "email": "raheem@sterling.com",
+    "dob": "1982-02-27",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "122",
+    "username": "mason_mount",
+    "password": "masonmason",
+    "firstName": "Mason",
+    "lastName": "Mount",
+    "email": "mason@mount.com",
+    "dob": "1995-09-29",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "123",
+    "username": "jack_grealish",
+    "password": "jackjack",
+    "firstName": "Jack",
+    "lastName": "Grealish",
+    "email": "jack@grealish.com",
+    "dob": "1990-11-13",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "124",
+    "username": "erling_haaland",
+    "password": "erlingerling",
+    "firstName": "Erling",
+    "lastName": "Halaand",
+    "email": "erling@halaand.com",
+    "dob": "1997-03-15",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "125",
+    "username": "kylian_mbappe",
+    "password": "kyliankylian",
+    "firstName": "Kylian",
+    "lastName": "Mbappe",
+    "email": "kylian@mbappe.com",
+    "dob": "1999-02-10",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "126",
+    "username": "ronald_araujo",
+    "password": "ronaldronald",
+    "firstName": "Ronald",
+    "lastName": "Araujo",
+    "email": "ronald@araujo.com",
+    "dob": "1998-12-12",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "127",
+    "username": "lamine_yamal",
+    "password": "laminelamine",
+    "firstName": "Lamine",
+    "lastName": "Yamal",
+    "email": "lamine@yamal.com",
+    "dob": "2005-04-18",
+    "role": "FACULTY"
+  },
+  {
+    "_id": "128",
+    "username": "robert_lewandowski",
+    "password": "robertrobert",
+    "firstName": "Robert",
+    "lastName": "Lewandowski",
+    "email": "robert@lewandowski.com",
+    "dob": "1990-03-19",
+    "role": "FACULTY"
+  },
+  {
+    "_id": "129",
+    "username": "gerard_pique",
+    "password": "gerardgerard",
+    "firstName": "Gerard",
+    "lastName": "Pique",
+    "email": "gerard@pique.com",
+    "dob": "1993-06-17",
+    "role": "FACULTY"
+  }
+]

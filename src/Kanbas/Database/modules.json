@@ -1,74 +1,81 @@
 [
     {
       "_id": "M101",
-      "name": "Formatting User Interfaces with HTML",
-      "description": "Learning to develop web-pages using HTML.",
-      "course": "CS5610"
+      "name": "Introduction to Rocket Propulsion",
+      "description": "Basic principles of rocket propulsion and rocket engines.",
+      "course": "RS101"
     },
     {
       "_id": "M102",
-      "name": "Styling User Interfaces with CSS",
-      "description": "Creating user interfaces with basics of CSS.",
-      "course": "CS5610"
+      "name": "Fuel and Combustion",
+      "description": "Understanding rocket fuel, combustion processes, and efficiency.",
+      "course": "RS101"
     },
     {
       "_id": "M103",
-      "name": "Implementing Responsive User Interfaces",
-      "description": "Making the user interfaces more screen and user friendly.",
-      "course": "CS5610"
+      "name": "Nozzle Design",
+      "description": "Principles of rocket nozzle design and performance optimization.",
+      "course": "RS101"
     },
     {
       "_id": "M201",
-      "name": "Introduction to Data Mining",
-      "description": "Learning various data mining concepts.",
-      "course": "CS6220"
+      "name": "Fundamentals of Aerodynamics",
+      "description": "Basic aerodynamic concepts and fluid dynamics principles.",
+      "course": "RS102"
     },
     {
       "_id": "M202",
-      "name": "Data Exploration",
-      "description": "Learning various techniques of exploring data.",
-      "course": "CS6220"
+      "name": "Subsonic and Supersonic Flow",
+      "description": "Understanding subsonic and supersonic aerodynamic behaviors.",
+      "course": "RS102"
     },
     {
       "_id": "M203",
-      "name": "Data Quality and Standardization",
-      "description": "Techniques to ensure data quality and industry standards.",
-      "course": "CS6220"
+      "name": "Aerodynamic Heating",
+      "description": "Study of aerodynamic heating and thermal protection systems.",
+      "course": "RS102"
     },
     {
       "_id": "M301",
-      "name": "Introduction to Cloud Computing",
-      "description": "Fundamentals of cloud computing.",
-      "course": "CS6620"
+      "name": "Spacecraft Structural Design",
+      "description": "Fundamentals of designing spacecraft structures and materials selection.",
+      "course": "RS103"
     },
     {
       "_id": "M302",
-      "name": "Introducing Cloud Architecting",
-      "description": "Introducing the various architectures present in cloud",
-      "course": "CS6620"
+      "name": "Orbital Mechanics",
+      "description": "Understanding orbital dynamics and mission planning.",
+      "course": "RS103"
     },
     {
       "_id": "M303",
-      "name": "Storing Content in the CLoud",
-      "description": "Various techniques to store data in the cloud.",
-      "course": "CS6620"
+      "name": "Spacecraft Systems Engineering",
+      "description": "Overview of spacecraft systems and subsystems engineering.",
+      "course": "RS103"
     },
     {
       "_id": "M401",
-      "name": "Review of Asymptotic Notation",
-      "description": "Fundaments of Asymptotic Notation and it's use-cases.",
-      "course": "CS5800"
+      "name": "Introduction to HTML",
+      "description": "Introudction to basic HTML syntax and tags.",
+      "course": "RS104"
     },
     {
       "_id": "M402",
-      "name": "Complexity (and Computability and Cryptography)",
-      "description": "Introducing various complexities in algorithms.",
-      "course": "CS5800"
+      "name": "CSS + Bootstrap",
+      "description": "Introudction to CSS style rendering and Bootstrap Library.",
+      "course": "RS104"
     },
     {
       "_id": "M403",
-      "name": "Divide-and-Conquer",
-      "description": "Introducing the fundamentals of the divide-and-conquer algorithm.",
-      "course": "CS5800"
+      "name": "Component Functions using Javascript",
+      "description": "Dividing a web page into reusable component using Javascript.",
+      "course": "RS104"
+    },
+    {
+      "_id": "M404",
+      "name": "Introduction to React",
+      "description": "Overview of React",
+      "course": "RS104"
     }
+
   ]

@@ -7,7 +7,7 @@ import { HiOutlineMailOpen } from 'react-icons/hi';
 import { AiOutlineHistory } from 'react-icons/ai';
 import { TbDeviceDesktopAnalytics } from 'react-icons/tb';
 import { BiHelpCircle } from 'react-icons/bi';
-import nuLogo from '../Images/nuLogo.png';
+import NEULogo from '../Images/NEULogo.png';
 
 import './index.css';
 
@@ -36,7 +36,7 @@ function KanbasNavigation() {
   return (
     <div className="list-group wd-kanbas-navigation-list">
       <div className="mb-3 wd-icon-and-image">
-        <img src={nuLogo} alt="logo" />
+        <img src={NEULogo} alt="logo" />
       </div>
       {links.map((link, index) => (
         <Link

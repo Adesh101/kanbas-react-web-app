@@ -1,16 +1,13 @@
 [
-  { "_id": "CS5610",
-    "name": "Web Development", "number": "CS5610", "startDate": "2024-01-09",
-    "endDate": "2024-04-27"
+  { "_id": "RS101",
+    "name": "Rocket Propulsion", "number": "RS4550", "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
   },
-  { "_id": "CS6220",
-    "name": "Data Mining Techniques", "number": "CS6220", "startDate": "2024-01-09", "endDate": "2024-04-27"
+  { "_id": "RS102",
+    "name": "Aerodynamics", "number": "RS4560", "startDate": "2023-01-10", "endDate": "2023-05-15"
   },
-  { "_id": "CS6620",
-    "name": "Fundamentals of Cloud Computing", "number": "CS6620", "startDate": "2024-01-09", "endDate": "2024-04-27"
-  },
-  { "_id": "CS5800",
-  "name": "Algorithms", "number": "CS5800", "startDate": "2024-01-09", "endDate": "2024-04-27"
-}
+  { "_id": "RS103",
+    "name": "Spacecraft Design", "number": "RS4570", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  }
 ]
   
