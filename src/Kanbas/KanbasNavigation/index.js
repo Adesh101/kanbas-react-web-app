@@ -1,26 +1,26 @@
-import { Link, useLocation } from 'react-router-dom';
-import { BiUserCircle } from 'react-icons/bi';
-import { AiOutlineDashboard } from 'react-icons/ai';
-import { BiBookBookmark } from 'react-icons/bi';
-import { BsCalendarWeek } from 'react-icons/bs';
-import { HiOutlineMailOpen } from 'react-icons/hi';
-import { AiOutlineHistory } from 'react-icons/ai';
-import { TbDeviceDesktopAnalytics } from 'react-icons/tb';
-import { BiHelpCircle } from 'react-icons/bi';
-import NEULogo from '../Images/NEULogo.png';
+import { Link, useLocation } from "react-router-dom";
+import { BiUserCircle } from "react-icons/bi";
+import { AiOutlineDashboard } from "react-icons/ai";
+import { BiBookBookmark } from "react-icons/bi";
+import { BsCalendarWeek } from "react-icons/bs";
+import { HiOutlineMailOpen } from "react-icons/hi";
+import { AiOutlineHistory } from "react-icons/ai";
+import { TbDeviceDesktopAnalytics } from "react-icons/tb";
+import { BiHelpCircle } from "react-icons/bi";
+import nuLogo from "../Images/nuLogo.png";
 
-import './index.css';
+import "./index.css";
 
 function KanbasNavigation() {
   const links = [
-    'Account',
-    'Dashboard',
-    'Courses',
-    'Calendar',
-    'Inbox',
-    'History',
-    'Studio',
-    'Help',
+    "Account",
+    "Dashboard",
+    "Courses",
+    "Calendar",
+    "Inbox",
+    "History",
+    "Studio",
+    "Help",
   ];
   const linkToIconMap = {
     Account: <BiUserCircle className="wd-icon wd-account" />,
@@ -36,14 +36,14 @@ function KanbasNavigation() {
   return (
     <div className="list-group wd-kanbas-navigation-list">
       <div className="mb-3 wd-icon-and-image">
-        <img src={NEULogo} alt="logo" />
+        <img src={nuLogo} alt="logo" />
       </div>
       {links.map((link, index) => (
         <Link
           key={index}
           to={`/Kanbas/${link}`}
           className={`mb-3 list-group-item ${
-            pathname.includes(link) && 'active'
+            pathname.includes(link) && "active"
           }`}
         >
           {linkToIconMap[link]}
